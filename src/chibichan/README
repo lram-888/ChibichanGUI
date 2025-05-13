@@ -1,0 +1,68 @@
+# 🐾 Chibichan Pet Game (JavaFX)
+
+This is a simple virtual pet game I built using Java and JavaFX as part of my learning journey.
+
+You get to take care of your pet, named Chibichan. You can:
+- Feed it 🍖
+- Play with it 🎮
+- Let it sleep 😴
+- Give it medicine 💊
+- Bathe it 🛁
+- Take it for walks 🚶
+- And sometimes... a random event happens! 🎲
+
+If you take good care of Chibichan, it will stay happy and healthy.
+But if you ignore it... well... it might not survive. 😢
+
+---
+
+## 💻 How to Run
+
+1. Download and install [JavaFX](https://gluonhq.com/products/javafx/)
+2. Open the project in IntelliJ IDEA
+3. Go to `File → Project Structure → Libraries` and add the `lib` folder from JavaFX
+4. Set VM options in the run config:
+--module-path "C:\path\to\javafx-sdk-21\lib" --add-modules javafx.controls
+
+
+5. Run `ChibichanApp.java` — and play! 🎉
+
+---
+
+## 👶 Why I Made This
+
+I'm learning Java and wanted to make something visual and interactive.   😊
+
+---
+
+## 📚 What I Learned
+
+- How to use JavaFX for GUI apps
+- How to save and load files using `ObjectOutputStream`
+- How to split a project into multiple classes
+- How to follow simple OOP structure
+
+---
+
+## ✅ Features to Add (maybe later...)
+
+- Let the user name the pet at the start
+- Add pictures and animations
+- Add sound effects
+- Make a `.jar` file I can double-click
+
+---
+
+## 🧑‍💻 Made With
+
+- Java 17+
+- JavaFX SDK
+- IntelliJ IDEA Community Edition
+
+---
+
+## 📦 How to Contribute
+
+If you're learning Java too and want to make it better, feel free to fork it and have fun!
+
+
